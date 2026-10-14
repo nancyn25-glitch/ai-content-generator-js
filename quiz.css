@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#6a11cb;
+  color:white;
+  font-family:sans-serif;
+}
+
+.box{
+  background:white;
+  color:black;
+  padding:25px;
+  border-radius:12px;
+  text-align:center;
+  width:300px;
+}
+
+input{
+  width:100%;
+  padding:8px;
+  margin-top:10px;
+}
+
+button{
+  margin-top:10px;
+  padding:10px;
+  cursor:pointer;
+}
+
+#result{
+  margin-top:15px;
+  white-space:pre-line;
+}
