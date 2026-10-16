@@ -6,7 +6,7 @@ const defineBtn = document.getElementById("defineBtn");
 const inputBox = document.getElementById("prompt");
 const outputBox = document.getElementById("output");
 
-const API_KEY = "AIzaSyCOlqvlRW7NxGK0W3Rm-ESXrh3Xpxnd1DQ"; 
+const API_KEY = "API_KEY"
 
 
 const fetchGeminiResponse = async (prompt) => {
